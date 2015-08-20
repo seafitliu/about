@@ -46,7 +46,7 @@
  	![有关git](doc/有关Git.png)
  	
  	
- * 有关操作系统
+* 有关操作系统
  	* [有关Android](有关操作系统/有关Android.xmind)，如图：
 
  	![有关Android](doc/有关Android.png)
@@ -54,4 +54,10 @@
  	* [有关Makefile](有关操作系统/有关Makefile.xmind)，如图：
 
  	![有关Makefile](doc/有关Makefile.png)
+ 	
+ 	
+* 有关数学
+ 	* [有关数学体系](有关数学/有关数学体系.xmind)，如图：
+
+ 	![有关数学体系](doc/有关数学体系.png)
  
