@@ -36,7 +36,7 @@
 	
  
 * 有关版本控制
- 	* [有关git](有关工具/有关git.xmind)，如图：
+ 	* [有关git](有关工具/有关git/有关Git.xmind)，如图：
 
- 	![有关git](doc/有关git.png)
+ 	![有关git](doc/有关Git.png)
  
