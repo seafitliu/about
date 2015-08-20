@@ -16,6 +16,19 @@
 
  	![有关ggplot](doc/有关ggplot2.png)
 
+ * 有关工具
+ 	* [有关GDB](有关工具/有关GDB.xmind)，如图：
+
+ 	![有关GDB](doc/有关GDB.png)
+ 	
+ 	* [有关Vim.xmind](有关工具/有关Vim.xmind)，如图：
+
+ 	![有关Vim](doc/有关Vim.png)
+ 	
+ 	* [有关WinDbg.xmind](有关工具/有关WinDbg.xmind)，如图：
+
+ 	![有关WinDbg](doc/有关WinDbg.png)
+ 	
 
 * [有关正则表达式](有关正则表达式.xmind)，如图：
 
