@@ -44,4 +44,10 @@
  	* [有关git](有关工具/有关git/有关Git.xmind)，如图：
 
  	![有关git](doc/有关Git.png)
+ 	
+ 	
+ * 有关操作系统
+ 	* [有关Android](有关操作系统/有关Android.xmind)，如图：
+
+ 	![有关Android](doc/有关Android.png)
  
