@@ -1,4 +1,4 @@
-﻿About系列
+About系列
 =====
 
 * 有关语言
@@ -10,8 +10,20 @@
      * [有关Boost](有关语言/有关C++系列/有关Boost.xmind)，如图：
 
      ![有关STL](doc/有关Boost.png)
+
+     * [有关C++11](有关语言/有关C++系列/有关C++11.xmind)，如图：
+
+     ![有关C++11](doc/有关C++11.png)
+
+     * [有关C++11之并发](有关语言/有关C++系列/有关C++11之并发.xmind)，如图：
+
+     ![有关C++11之并发](doc/有关C++11之并发.png)
      
    * 有关Java系列
+   	 * [有关Java之并发](有关语言/有关Java系列/有关Java之并发.xmind)，如图：
+
+     ![有关Java之并发](doc/有关Java之并发.png)
+ 
    	 * [有关Maven](有关语言/有关Java系列/有关Maven.xmind)，如图：
 
      ![有关Maven](doc/有关Maven.png)
