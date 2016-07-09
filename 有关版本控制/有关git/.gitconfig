@@ -1,0 +1,12 @@
+[user]
+	email = 4010896@qq.com
+	name = 4010896@qq.com
+[credential]
+	helper = store
+[alias]
+	ll = log --pretty='%C(bold yellow)%h %C(bold cyan)%s %C(bold green)%cn %C(reset)%cr(%cd)' --date=short
+	ss = status -s
+[http]
+	postBuffer = 524288000
+[core]
+	quotepath = false
