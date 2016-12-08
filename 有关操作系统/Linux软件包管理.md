@@ -2,8 +2,8 @@
 
 ## Debian/Ubuntu APT包管理
 ### 源服务器目录结构
-
-- dists目录下包含各种ubuntu发布版本名称：
+- pool目录包含正真的软件包deb
+- dists目录下包含各种ubuntu发布版本各种体系结构的软件包信息：
 
 		Ubuntu 4.10 – Warty Warthog （多疣的疣猪）
 		Ubuntu 5.04 – Hoary Hedgehog （白发的刺猬）
